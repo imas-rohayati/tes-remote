@@ -1,3 +1,5 @@
 test 
 baris ini di ketik dari github
 baris ini juga di ketik dari github
+baris ini di ketik di komputer lokal
+
